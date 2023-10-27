@@ -1,4 +1,4 @@
-# IUBOA.github.io
+# IUBOA.github.ai
 
 Class name:AI程式設計應用實務
 訓練期間
